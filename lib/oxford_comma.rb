@@ -12,6 +12,6 @@ def oxford_comma(array)
         name_list += "and #{name}"
       end
     end
-    string
+    name_list
   end
 end
